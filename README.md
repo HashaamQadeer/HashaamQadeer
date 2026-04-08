@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Hashaam Qadeer 👋
 
-<!--
-**HashaamQadeer/HashaamQadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React Developer | Frontend Engineer | Computer Science Student
 
-Here are some ideas to get you started:
+I am a passionate React Developer focused on building modern, responsive, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind
+* Supabase
+* Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔹 Social Media App
+
+* React + Supabase
+* Authentication
+* Dynamic Posts
+* Modern UI
+
+
+
+## 📫 Contact Me
+
+* Email: hashaamqaeer@gmail.com](mailto:your@email.com)
+* GitHub: https://github.com/HashaamQadeer
+* LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hashaam-qadeer-777455283/)
+
+
