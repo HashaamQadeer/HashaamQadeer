@@ -32,7 +32,7 @@ I am a passionate React Developer focused on building modern, responsive, and sc
 
 ## 📫 Contact Me
 
-* Email: hashaamqaeer@gmail.com](mailto:your@email.com)
+* Email: hashaamqaeer@gmail.com
 * GitHub: https://github.com/HashaamQadeer
 * LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hashaam-qadeer-777455283/)
 
