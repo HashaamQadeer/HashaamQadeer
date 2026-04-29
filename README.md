@@ -7,7 +7,7 @@
 - 💻 Passionate about building interactive web apps, UI systems, and full-stack projects
 - ⚡ Currently working with React, Node.js, and Electron-based desktop apps
 
-- 📫 Reach me: hashaamqaeer@example.com  
+- 📫 Reach me: https://hashaam-portfolio.netlify.app/
 ---
 
 ## 🛠 Tech Stack
@@ -37,8 +37,7 @@ VS Code • Git • GitHub • Postman • Firebase • Netlify • Vercel
 - Advanced React Patterns
 - Backend Architecture (Node.js + Express)
 - Desktop Apps with Electron
-- 3D Design in Blender
-
+  
 ---
 
 ## 🤝 Connect with Me
