@@ -1,58 +1,13 @@
-# Hi, I'm Hashaam Qadeer 👋
-
-### React Developer | Frontend Engineer | Computer Science Student
-
-I am a passionate React Developer focused on building modern, responsive, and scalable web applications.
-
----
-
-## 🚀 Tech Stack
-
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind
-* Supabase
-* Git & GitHub
-
----
-
-## 📌 Projects
-
-### 🔹 Social Media App
-
-* React + Supabase
-* Authentication
-* Dynamic Posts
-* Modern UI
-
-
-
-## 📫 Contact Me
-
-* Email: hashaamqaeer@gmail.com
-* GitHub: https://github.com/HashaamQadeer
-* LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hashaam-qadeer-777455283/)
-
-
 # Hi, I'm Hashaam 👋
 
-### Frontend Developer | React Developer | Full-Stack Enthusiast | Computer Science Student
+### Frontend Developer | React Developer | Full-Stack Enthusiast 
 
 ---
 
-- 🎓 Computer Science Student (Pakistan)
 - 💻 Passionate about building interactive web apps, UI systems, and full-stack projects
 - ⚡ Currently working with React, Node.js, and Electron-based desktop apps
-- 🧠 Exploring system design, databases, and 3D graphics (Blender)
-- 📦 Built projects like:
-  - Dental Clinic Management System (Electron + SQLite)
-  - ConfEase (Conference Management Platform)
-- 📫 Reach me: your-email@example.com  
-- 🌐 LinkedIn | GitHub
 
+- 📫 Reach me: hashaamqaeer@example.com  
 ---
 
 ## 🛠 Tech Stack
@@ -87,4 +42,4 @@ VS Code • Git • GitHub • Postman • Firebase • Netlify • Vercel
 ---
 
 ## 🤝 Connect with Me
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/hashaam-qadeer-777455283/) | [GitHub](https://github.com/HashaamQadeer/HashaamQadeer/) | [Portfolio](https://hashaam-portfolio.netlify.app/)
